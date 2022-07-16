@@ -7,6 +7,6 @@ import com.example.runningtrackerapp.R
 import com.example.runningtrackerapp.presenter.viewmodels.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
-class TrackingFragment : Fragment(R.layout.fragment_run) {
+class SettingsFragment : Fragment(R.layout.fragment_settings) {
 
 }
